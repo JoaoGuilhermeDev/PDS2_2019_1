@@ -1,5 +1,5 @@
 //Aluno: Joao Guilherme Da Costa Augustinho
-//Cap 5 (Projeto de Programação 9)(Conway's Game of Life)
+//Cap 5 do Absolute C++ (Projeto de Programação 9)(Conway's Game of Life)
 
 //=================================================================================================
 #include <iostream>                              //INCLUDES
